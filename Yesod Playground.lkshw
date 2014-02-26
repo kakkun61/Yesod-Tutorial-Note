@@ -1,0 +1,10 @@
+Version of workspace file format:
+               1
+Time of storage:
+               "Wed Feb 26 12:56:48 JST 2014"
+Name of the workspace:
+               "Yesod Playground"
+File paths of contained packages:
+               ["Playground.cabal"]
+Maybe file path of an active package:
+               Just "Playground.cabal"
