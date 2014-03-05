@@ -1,0 +1,4 @@
+<h1>You've just posted
+<p>#{postedText}#{Data.Text.reverse postedText}
+<hr>
+<p><a href=@{MirrorR}>Get back
