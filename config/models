@@ -11,7 +11,7 @@ Email
 
 Article
     title Text
-    constant Html
+    content Html
     deriving
 
  -- By default this file is used in Model.hs (which is imported by Foundation.hs)
